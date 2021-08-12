@@ -1,0 +1,7 @@
+name: BanRegionalIP
+main: com.DawnDream.BanRegionalIP.main
+version: 1.0
+author: DawnDream
+permissions:
+  com.DawnDream.BanRegionalIP.admin:
+    default: op
