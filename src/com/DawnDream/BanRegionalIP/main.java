@@ -1,7 +1,7 @@
 package com.DawnDream.BanRegionalIP;
 
-import com.DawnDream.BanRegionalIP.Commands.BanDQ;
 import com.DawnDream.BanRegionalIP.Commands.getBanList;
+import com.DawnDream.BanRegionalIP.Commands.BanDQ;
 import com.DawnDream.BanRegionalIP.Commands.unBanDQ;
 import com.DawnDream.BanRegionalIP.Events.playerJoin;
 import net.md_5.bungee.api.plugin.Plugin;

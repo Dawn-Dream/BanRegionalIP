@@ -1,6 +1,6 @@
 package com.DawnDream.BanRegionalIP.Events;
 
-import com.DawnDream.BanRegionalIP.getIpRegional.getIp;
+import com.DawnDream.BanRegionalIP.getIpRegional.*;
 import com.DawnDream.BanRegionalIP.main;
 import net.md_5.bungee.api.ChatColor;
 import net.md_5.bungee.api.connection.ProxiedPlayer;

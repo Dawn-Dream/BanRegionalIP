@@ -1,9 +1,9 @@
 package com.DawnDream.BanRegionalIP.Commands;
 
+import com.DawnDream.BanRegionalIP.getIpRegional.getIp;
 import com.DawnDream.BanRegionalIP.main;
 import net.md_5.bungee.api.ChatColor;
 import net.md_5.bungee.api.CommandSender;
-import net.md_5.bungee.api.chat.BaseComponent;
 import net.md_5.bungee.api.connection.ProxiedPlayer;
 import net.md_5.bungee.api.plugin.Command;
 import net.md_5.bungee.config.Configuration;

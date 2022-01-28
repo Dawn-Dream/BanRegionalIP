@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BanRegionalIP">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/BanRegionalIP_jar/BanRegionalIP.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
